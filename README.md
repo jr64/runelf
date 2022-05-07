@@ -15,7 +15,7 @@ make
 
 ## Usage
 
-Runelf reads the ELF file from stdin, all arguments as well es environment variables are passed on.
+Runelf reads the ELF file from stdin, all arguments as well as environment variables are passed on.
 
 ```sh
 cat /bin/ps | ./runelf aux
